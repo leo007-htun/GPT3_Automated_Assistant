@@ -3,6 +3,8 @@
 [![PyPI - Python Version](https://img.shields.io/badge/Python-%3E%3D%203.9-blue)](https://www.python.org/)
 ![OpenAI Badge](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=for-the-badge)
 
+</div>
+
 ## GPT3 Automated Assistant
 
 The script is run in the background, listening to any dialog. 
