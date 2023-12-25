@@ -1,5 +1,6 @@
 <div align="center">
   
+[![PyPI version](https://img.shields.io/pypi/v/gTTS.svg)](https://pypi.org/project/gTTS/)
 [![PyPI - Python Version](https://img.shields.io/badge/Python-%3E%3D%203.9-blue)](https://www.python.org/)
 ![OpenAI Badge](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=for-the-badge)
 
@@ -17,15 +18,15 @@ Once the ``hot-word``  or ``trigger-word``, ``JARVIS`` is heard, it will start r
 
 ## Installation
 
-git clone this ``repo git clone https://github.com/leo007-htun/GPT3_Automated_Assistant.git``
+$ repo git clone https://github.com/leo007-htun/GPT3_Automated_Assistant.git
 
-run ``pip install -r requirements.txt``
+$ pip install -r requirements.txt
 
 replace ``YOUR_API_KEY`` with user's OpeanAI API key
 
 
 ## RUN
-simply ``source sr.sh`` to run in background
+$ source sr.sh to run in background
 
 
 
