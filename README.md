@@ -17,9 +17,9 @@ Once the ``hot-word``  or ``trigger-word``, ``JARVIS`` is heard, it will start r
 
 ## Installation
 
-git clone this repo ``git clone https://github.com/leo007-htun/GPT3_Automated_Assistant.git`` 
+git clone this repo git clone https://github.com/leo007-htun/GPT3_Automated_Assistant.git
 
-run ``pip install -r requirements.txt`` 
+run pip install -r requirements.txt
 
 replace ``YOUR_API_KEY`` with user's OpeanAI API key
 
