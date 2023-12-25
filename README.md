@@ -11,7 +11,7 @@ The script is run in the background, listening to any dialog.
 
 Once the ``hot-word``  or ``trigger-word``, ``JARVIS`` is heard, it will start responding. 
 
-``set_alarm`` function is threaded so that other fucntions and commands can still be used while ``alarm`` is scheduling in background.
+``set_alarm`` function is threaded so that other functions and commands can still be used while ``alarm`` is scheduling in background.
 
 ``GPT-3.5`` is utilized as assistant bot.
 
