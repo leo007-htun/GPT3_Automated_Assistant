@@ -18,7 +18,7 @@ Once the ``hot-word``  or ``trigger-word``, ``JARVIS`` is heard, it will start r
 
 ## Installation
 
-$ repo git clone https://github.com/leo007-htun/GPT3_Automated_Assistant.git
+$ git clone https://github.com/leo007-htun/GPT3_Automated_Assistant.git
 
 $ pip install -r requirements.txt
 
