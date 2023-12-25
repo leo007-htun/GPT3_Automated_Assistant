@@ -1,3 +1,7 @@
+# GPT3 Automated Assistant With Hot Word (Trigger Word)
+
+Python Assistant with Trigger Word, fused with GPT3.5
+
 <div align="center">
   
 [![PyPI version](https://img.shields.io/pypi/v/gTTS.svg)](https://pypi.org/project/gTTS/)
