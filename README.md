@@ -7,7 +7,6 @@
 </div>
 
 ## GPT3 Automated Assistant With Hot Word (Trigger Word)
-
 Python Assistant with Trigger Word, fused with GPT3.5
 
 ``pyttsx3`` generates robotic voice which is not even understandable no matter how I tried to change language, speed and tone.
