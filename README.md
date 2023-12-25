@@ -8,6 +8,10 @@
 
 ## GPT3 Automated Assistant
 
+``pyttsx3`` generates robotic voice which is not even understandable no matter how I tried to change language, speed and tone.
+
+Thus, ``gtts`` is used and saved as ``speech.mp3``, which is again played by ``playsound`` module.
+
 The script is run in the background, listening to any dialog. 
 
 Once the ``hot-word``  or ``trigger-word``, ``JARVIS`` is heard, it will start responding. 
