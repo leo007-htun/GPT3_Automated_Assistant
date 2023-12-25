@@ -25,7 +25,7 @@ replace ``YOUR_API_KEY`` with user's OpeanAI API key
 
 
 ## RUN
-simpy run ``source sr.sh`` to run in background
+simply ``source sr.sh`` to run in background
 
 
 
