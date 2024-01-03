@@ -7,9 +7,8 @@
 
 
 
+https://github.com/leo007-htun/GPT3_Automated_Assistant_with_wake_word/assets/66962471/51b005eb-8197-4442-89a1-601c540c1b13
 
-
-https://github.com/leo007-htun/GPT3_Automated_Assistant_with_wake_word/assets/66962471/fa52dad0-5362-47a9-b04e-a4cbee55b758
 
 
 
