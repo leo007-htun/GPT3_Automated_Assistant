@@ -23,7 +23,7 @@ directory_path = '/home/leo/Assistant'
 alarm_enabled = True
 microphone_thread_enabled = True
 
-api_key = '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'
+api_key = 'YOUR_API_KEY'
 openai.api_key = api_key
 
 alarm_scheduler = sched.scheduler(time.time, time.sleep)
