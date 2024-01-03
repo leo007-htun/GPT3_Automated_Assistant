@@ -20,6 +20,16 @@ Once the ``hot-word``  or ``trigger-word``, ``JARVIS`` is heard, it will start r
 
 ``GPT-3.5`` is utilized as assistant bot.
 
+## Instructions
+- Jarvis play (music)
+- Jarvis what's the time
+- Jarvis set alarm --:-- AM/PM
+  - stop/turn off alarm
+- Jarvis what's the temperature
+- Jarvis how's the weather
+- Jarvis save memo
+- Jarvis show me the list of memo
+
 ## Installation
 
     $ git clone https://github.com/leo007-htun/GPT3_Automated_Assistant_with_wake_word.git
