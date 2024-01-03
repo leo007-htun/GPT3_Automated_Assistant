@@ -6,7 +6,8 @@
 
 </div>
 
-[![TUTORIAL](https://img.youtube.com/vi/v=5cgx5UaSm7s/0.jpg)](https://www.youtube.com/v=5cgx5UaSm7s)
+[![TUTORIAL](https://img.youtube.com/vi/v=5cgx5UaSm7s/![images](https://github.com/leo007-htun/GPT3_Automated_Assistant_with_wake_word/assets/66962471/13233061-c3da-44e7-be65-baa8a3fb0f23))](https://www.youtube.com/v=5cgx5UaSm7s)
+
 
 
 ## GPT3 Automated Assistant With Hot Word (Trigger Word)
