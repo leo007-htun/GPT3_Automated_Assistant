@@ -6,7 +6,7 @@
 
 </div>
 
-https://github.com/leo007-htun/GPT3_Automated_Assistant_with_wake_word/assets/66962471/9278faad-86f1-427c-93dc-773de5e12ecc
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=5cgx5UaSm7s)
 
 https://www.youtube.com/watch?v=5cgx5UaSm7s
 
