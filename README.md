@@ -6,7 +6,7 @@
 
 </div>
 
-[![TUTORIAL](https://img.youtube.com/vi/v=5cgx5UaSm7s](https://www.youtube.com/v=5cgx5UaSm7s)
+![TUTORIAL](https://www.youtube.com/v=5cgx5UaSm7s)
 
 
 
