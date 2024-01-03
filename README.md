@@ -7,7 +7,7 @@
 </div>
 
 
-[![Watch the video]](https://www.youtube.com/watch?v=5cgx5UaSm7s)
+https://www.youtube.com/watch?v=5cgx5UaSm7s
 
 
 ## GPT3 Automated Assistant With Hot Word (Trigger Word)
