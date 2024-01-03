@@ -4,9 +4,11 @@
 [![PyPI - Python Version](https://img.shields.io/badge/Python-%3E%3D%203.9-blue)](https://www.python.org/)
 ![OpenAI Badge](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=for-the-badge)
 
+[![Video](https://img.youtube.com/vi/5cgx5UaSm7s/hqdefault.jpg)](https://www.youtube.com/watch?v=5cgx5UaSm7s)
+
 </div>
 
-[![Video](https://img.youtube.com/vi/5cgx5UaSm7s/hqdefault.jpg)](https://www.youtube.com/watch?v=5cgx5UaSm7s)
+
 
 ## GPT3 Automated Assistant With Hot Word (Trigger Word)
 
