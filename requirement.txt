@@ -6,5 +6,6 @@ PyAutoGUI==0.9.54
 pydub==0.25.1 
 pywhatkit==5.4
 SpeechRecognition==3.10.1
+python-weather==1.1.0
 
 
