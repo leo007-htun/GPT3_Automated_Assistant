@@ -7,7 +7,7 @@
 </div>
 
 
-https://github.com/leo007-htun/GPT3_Automated_Assistant_with_wake_word/assets/66962471/3f6aec98-2880-4523-b9ce-4000ef4d341b
+[![Watch the video](https://www.youtube.com/watch?v=5cgx5UaSm7s)
 
 
 ## GPT3 Automated Assistant With Hot Word (Trigger Word)
