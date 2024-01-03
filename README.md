@@ -5,6 +5,10 @@
 
 </div>
 
+
+https://github.com/leo007-htun/GPT3_Automated_Assistant_with_wake_word/assets/66962471/9524114d-1bd9-42cd-98dc-171db63401f8
+
+
 ## GPT3 Automated Assistant With Hot Word (Trigger Word)
 
 ``pyttsx3`` generates robotic voice which is not even understandable no matter how I tried to change language, speed and tone.
